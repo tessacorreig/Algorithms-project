@@ -42,6 +42,20 @@ The dataset provides information about 4 products from a start-up with 208 accum
 This dataset was manually constructed by our group, taking into account the workings of a start-up. 
 
 # Installation & Usage 
+#first-time install 
+
+git clone https://github.com/alexiachm/Algorithms-project.git
+
+create and activating a virtual environment 
+create the venv:
+cd Algorithms-project
+python3 -m venv./Algorithms-project
+
+activating the venv (each time you open):
+source ./Algorithms-project/bin/activate 
+
+install modules:
+pip install -r requirements.txt 
 
 
 
