@@ -4,6 +4,22 @@ Algorithms project for start up app
 ## Description:
 Startup Tracker is a user-friendly app designed to help small startups and businesses effectively track their inventory levels, profits, and revenues. It's tailored for businesses that are just starting and don't have the resources for complex inventory management systems. Startup tracker is meant to allow small businesses to manage their  inventory and gain insights into financial performance, making it simpler to run businesses efficiently.
 
+##balsamiq app 
+A balsamiq app that uses templates and reads data to create our interface for our app algorithms. 
+</table>
+  </tr>
+    </td>
+      <img src= "/Users/sofiaserantes/Desktop/Screenshot 2023-11-24 at 16.40.27.png" alt="lorem ipsum" title= "Sign in home screen">
+     </td>
+     </td>
+       <img src=
+     </td>
+     </td>
+       <img src=
+       
+        
+
+
 ## Table of Contents
 1. [Introduction] (#introduction)
 2. [Installation & Usage] (#Installation-&-Usage)
@@ -26,9 +42,12 @@ To track expenses, the system displays the main site and allows the user to sele
 
 ###Limitations
 The algorithm is currently limited to start-up business, as if a business were to grow exponentially into a mass corporation, our current system might not hold all data structures appropriately. 
+Our main limitation is that our app works specifically with our dataset only, if a startup would want to include their own dataset it would not be possible. 
 
 ##File Architecture
-
+- `startups.py` - The main balsamiq app file that includes
+- `templates`- the app contains templates to create the interfaces of the app
+- any other files are self-explanatory.
 
 #The Dataset
 The dataset provides information about 4 products from a start-up with 208 accumulated different time stamps. Its content is relevant for anyone interested in tracking and organizing their products depending on their time stamps, and understand their current and past savings, expenses, incomes, and inventories. The following variables are presented:
@@ -44,28 +63,57 @@ This dataset was manually constructed by our group, taking into account the work
 # Installation & Usage 
 #first-time install 
 
+clone the files:
+`````
 git clone https://github.com/alexiachm/Algorithms-project.git
-
-create and activating a virtual environment 
+`````
+creating and activating a virtual environment 
 create the venv:
+`````
 cd Algorithms-project
 python3 -m venv./Algorithms-project
+`````
 
 activating the venv (each time you open):
+`````
 source ./Algorithms-project/bin/activate 
+`````
 
 install modules:
+`````
 pip install -r requirements.txt 
-
-
+`````
+##usage 
+`````
+cd Algorithms-project
+`````
+`````
+export FLASK_APP = app
+`````
+`````
+export FLASK_DEBUG=1
+`````
+`````
+flask run
+`````
 
 # Further Improvements 
-
+- [] Expand the code for it to be able to read other business start up's datasets to make it more specific
+- [] Expand the data set for it to have more products
+- [] Expand the data set for it to have more time stamps per product type
+- [] Improve questions in the start up survey to be more accurate and have a deeper understanding of what start ups need to target our app better for them
 
 
 # Resources Used
-
+- [balsamiq] (https://balsamiq.com/)
+- [excel] (/Users/sofiaserantes/Desktop/startups.xlsx)
 
 # Credits
-
+This project was created for our Algorithms and Data Structures class at IE University. The authors of this project are:
+- Tessa Correig
+- Sofia Serantes
+- Emilia Granja
+- Tomas Lock
+- Pilar Guerrero
+- Alexia Chacon
 
