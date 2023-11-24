@@ -9,7 +9,7 @@ A balsamiq app that uses templates and reads data to create our interface for ou
 </table>
   </tr>
     </td>
-      <img src= "/Users/sofiaserantes/Desktop/Screenshot 2023-11-24 at 16.40.27.png" alt="lorem ipsum" title= "Sign in home screen">
+      <img src= "https://github.com/alexiachm/Algorithms-project/blob/main/2174022b-7f21-49da-b26a-865c0e618425.jpg" alt="lorem ipsum" title= "Sign in home screen">
      </td>
      </td>
        <img src=
