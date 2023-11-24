@@ -9,14 +9,26 @@ A balsamiq app that uses templates and reads data to create our interface for ou
 </table>
   </tr>
     </td>
-      <img src= "https://github.com/alexiachm/Algorithms-project/blob/main/2174022b-7f21-49da-b26a-865c0e618425.jpg" alt="lorem ipsum" title= "Sign in home screen">
+      <img src= "https://github.com/alexiachm/Algorithms-project/blob/main/2174022b-7f21-49da-b26a-865c0e618425.jpg" alt="Sign in home screen" title= "Sign in home screen">
      </td>
      </td>
-       <img src=
+       <img src="https://github.com/alexiachm/Algorithms-project/blob/main/2e87ee98-1011-44dd-9bab-a33cfdcc6024.jpg" alt="Inventory" title= "Inventory">
      </td>
      </td>
-       <img src=
-       
+       <img src="https://github.com/alexiachm/Algorithms-project/blob/main/35f6394f-7ac0-42be-8860-1564bb33a8d6.jpg" alt="Expenses" title= "Expenses">
+      </td>
+       </td>
+        <img src="https://github.com/alexiachm/Algorithms-project/blob/main/WhatsApp%20Image%202023-11-24%20at%2016.41.54.jpeg" alt="Revenue" title= "Revenue">
+      </td>
+    </tr>
+
+    <tr>
+      <td> Sign in Home Screen</td>
+      <td> Inventory</td>
+      <td> Expenses</td>
+      <td> Revenue</td>
+    </tr>
+  </table>
         
 
 
