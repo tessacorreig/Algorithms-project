@@ -114,7 +114,7 @@ flask run
 - [] Didn't show all the information available to aid the user experience (what products there were, options to choose)
 - [] Improve questions in the start up survey to be more accurate and have a deeper understanding of what start ups need to target our app better for them
 
-# Further imrpovements for second code
+# Further improvements for second code
 - for the code to be able to read the data in a format that is not the specific column order we provided
 - for the code to be able to expand even further to help any business, and not only start ups
 
@@ -122,6 +122,7 @@ flask run
 - [balsamiq] (https://balsamiq.com/)
 - [excel] (https://github.com/alexiachm/Algorithms-project/blob/main/startups%20(4).xlsx)
 - [python] (https://github.com/alexiachm/Algorithms-project/blob/main/ProjectAlgorithms.py)
+- [python] (https://github.com/alexiachm/Algorithms-project/blob/main/AlgorithmsCodeStartups.py)
 
 # Credits
 This project was created for our Algorithms and Data Structures class at IE University. The authors of this project are:
