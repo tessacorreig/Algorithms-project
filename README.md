@@ -122,7 +122,7 @@ flask run
 - [balsamiq] (https://balsamiq.com/)
 - [excel] (https://github.com/alexiachm/Algorithms-project/blob/main/startups%20(4).xlsx)
 - [python] (https://github.com/alexiachm/Algorithms-project/blob/main/ProjectAlgorithms.py)
-- [python] (https://github.com/alexiachm/Algorithms-project/blob/main/AlgorithmsCodeStartups.py)
+- [python] (https://github.com/alexiachm/Algorithms-project/blob/main/AlgorithmsCodeStartups%20(1).py)
 
 # Credits
 This project was created for our Algorithms and Data Structures class at IE University. The authors of this project are:
