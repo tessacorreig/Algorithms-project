@@ -109,12 +109,14 @@ export FLASK_DEBUG=1
 flask run
 `````
 
-# Further Improvements 
+# Improvements for first code
 - [] Expand the code for it to be able to read other business start up's datasets to make it more specific
-- [] Expand the data set for it to have more products
-- [] Expand the data set for it to have more time stamps per product type
+- [] Didn't show all the information available to aid the user experience (what products there were, options to choose)
 - [] Improve questions in the start up survey to be more accurate and have a deeper understanding of what start ups need to target our app better for them
 
+# Further imrpovements for second code
+- for the code to be able to read the data in a format that is not the specific column order we provided
+- for the code to be able to expand even further to help any business, and not only start ups
 
 # Resources Used
 - [balsamiq] (https://balsamiq.com/)
