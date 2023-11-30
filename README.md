@@ -33,9 +33,9 @@ A balsamiq app that uses templates and reads data to create our interface for ou
 
 
 ## Table of Contents
-1. [Introduction](https://github.com/alexiachm/Algorithms-project/blob/main/README.md)
-2. [Installation & Usage](https://github.com/alexiachm/Algorithms-project/blob/main/README.md)
-3. [Further Improvements](https://github.com/alexiachm/Algorithms-project/blob/main/README.md)
+1. [Introduction](https://github.com/alexiachm/Algorithms-project/blob/main/README.md#introduction)
+2. [Installation & Usage](https://github.com/alexiachm/Algorithms-project/blob/main/README.md#installation--usage)
+3. [Further Improvements](https://github.com/alexiachm/Algorithms-project/blob/main/README.md#further-improvements-for-second-code)
 4. [Credits](https://github.com/alexiachm/Algorithms-project/blob/main/README.md#credits)
 
 # Introduction 
