@@ -33,7 +33,7 @@ A balsamiq app that uses templates and reads data to create our interface for ou
 
 
 ## Table of Contents
-1. [Introduction][ [Introduction]([https://github.com/alexiachm/Algorithms-project/blob/main/README.md#introduction])
+1. [Introduction](urlhttps://github.com/alexiachm/Algorithms-project/blob/main/README.md#introduction)
 2. [Installation & Usage] (#Installation-&-Usage)
 3. [Further Improvements] (#further-improvements)
 4. [Credits] (#credits)
