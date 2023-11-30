@@ -34,9 +34,9 @@ A balsamiq app that uses templates and reads data to create our interface for ou
 
 ## Table of Contents
 1. [Introduction](https://github.com/alexiachm/Algorithms-project/blob/main/README.md)
-2. [Installation & Usage] (#Installation-&-Usage)
-3. [Further Improvements] (#further-improvements)
-4. [Credits] (#credits)
+2. [[Installation & Usage](https://github.com/alexiachm/Algorithms-project/blob/main/README.md)
+3. [Further Improvements](https://github.com/alexiachm/Algorithms-project/blob/main/README.md)
+4. [Credits](https://github.com/alexiachm/Algorithms-project/blob/main/README.md)
 
 # Introduction 
 This application was created for our Algorithms & Data Structures class. The project instructions were to create an app using what we learned in class. 
