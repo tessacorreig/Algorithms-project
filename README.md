@@ -33,7 +33,7 @@ A balsamiq app that uses templates and reads data to create our interface for ou
 
 
 ## Table of Contents
-1. [Introduction] (#introduction)
+1. [Introduction][ [Introduction](url)
 2. [Installation & Usage] (#Installation-&-Usage)
 3. [Further Improvements] (#further-improvements)
 4. [Credits] (#credits)
