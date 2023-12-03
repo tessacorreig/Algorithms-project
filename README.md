@@ -45,9 +45,7 @@ We came up with StartupPal, an app that helps people with start-up businesses, t
 
 ## User journey 
 The app is first accessed by a login in or sign up page for the user to save their data accordingly. After, a dashboard is displayed with a main statistics page of inventory levels, overall revenue and inventory. The dashboard displays whether the data is increasing or decreasing (an overview of all the data). From this dashboard, there are three tabs that can be accessed: Inventory, Revenues, and Expenses. 
- <img src= "https://github.com/alexiachm/Algorithms-project/blob/main/2174022b-7f21-49da-b26a-865c0e618425.jpg" alt="Sign in home screen" title= "Sign in home screen">
-     </td>
-     </td>
+<img src="https://github.com/alexiachm/Algorithms-project/blob/main/WhatsApp%20Image%202023-11-24%20at%2016.41.54.jpeg" alt="Revenue" title= "Revenue">
 
 To track inventories, the system displays the main site of an activated account where the menu is initially displayed. The system then allows to select the Inventory tab, and shows an initial graph with the total inventories of all products distinguishing between those bought this month and those bought previously. After this, if you double tap on the graph it can change to a table format which displays the different amounts of each product, for the user to visually understand it in a different manner. Also, the system is able to filter by allowing the user to select a specific product or group of products and specific time frames. the system will again display the inventory graph with the corresponding filtered inventories. If the user double taps it changes again to the table format. In addition, the inventories page, displays the savings of the start-up, by allowing the user to save the graphs they have created to a given format. 
 <img src="https://github.com/alexiachm/Algorithms-project/blob/main/35f6394f-7ac0-42be-8860-1564bb33a8d6.jpg" alt="Expenses" title= "Expenses">
