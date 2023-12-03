@@ -53,9 +53,8 @@ To track inventories, the system displays the main site of an activated account 
        </td>
 
 As previously mentioned for inventories, the app tracks revenues and expenses similarly. For revenues, the system displays the main site of an activated account where the menu is initially displayed and the system the nallows to select the revenue tab. The system shows a graph with the total revenues, and can also change to table format to show the different amounts of each product. The system also filters and shows savings as previously mentioned. 
- <img src="https://github.com/alexiachm/Algorithms-project/blob/main/WhatsApp%20Image%202023-11-24%20at%2016.41.54.jpeg" alt="Revenue" title= "Revenue">
-      </td>
-    </tr>
+<img src="https://github.com/alexiachm/Algorithms-project/blob/main/35f6394f-7ac0-42be-8860-1564bb33a8d6.jpg" alt="Expenses" title= "Expenses">
+  
 
 To track expenses, the system displays the main site and allows the user to select the expenses tab, where the system displays an initial graph with the total expenses of all products distinguishing between those bough this month and those bough previously. It does the same as with the other two previous tabs for filtering and savings.
 <img src="https://github.com/alexiachm/Algorithms-project/blob/main/35f6394f-7ac0-42be-8860-1564bb33a8d6.jpg" alt="Expenses" title= "Expenses">
