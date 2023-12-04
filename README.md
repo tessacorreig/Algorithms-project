@@ -115,14 +115,24 @@ export FLASK_DEBUG=1
 flask run
 `````
 
-# Improvements for first code
-- [] Expand the code for it to be able to read other business start up's datasets to make it more specific
-- [] Didn't show all the information available to aid the user experience (what products there were, options to choose)
-- [] Improve questions in the start up survey to be more accurate and have a deeper understanding of what start ups need to target our app better for them
-
-# Further improvements for second code
-- for the code to be able to read the data in a format that is not the specific column order we provided
+# Further improvements 
 - for the code to be able to expand even further to help any business, and not only start ups
+
+For our next steps, we thought about two main ideas which could be implemented in the long run. 
+
+The first one includes Dataset improvements, such as:
+- For our app to be able to take as an input datasets that don’t need to be in our specified format, but that the app manages to adapt to more structures of different datasets
+as well as for our app to be able to handle bigger amounts of data, with more columns and rows.
+
+The second one inludes taking into account big companies and not only start-ups:
+- As an aim for our tracker to grow and be able to accompany businesses that were once startups, and are now large companies
+And lastly, for our tracker to hold large amounts of data from big businesses, not only start-ups, so that our app would grow professionally and continue being of use for all businesses, including those that started organizing themselves with us. 
+
+Also If our app was connected to the user’s dataset in real time we would provide valuable insights on the data such us:
+- Notifications whenever inventory is below 0, or even before that so user’s don’t run out of inventory
+- Updates on best performing products based on revenue
+- Recommendations on which products to maintain for next operating months etc
+For this we would need an algorithm which is able to understand the data, read, provided and make recommendations. 
 
 # Resources Used
 - [balsamiq] (https://balsamiq.com/)
